@@ -1,0 +1,3 @@
+[submodule "assignment/hpc-lab-assignment-repo"]
+	path = assignment/hpc-lab-assignment-repo
+	url = https://git.hipert.unimore.it/hpc_class/hpc-lab-assignment-repo.git
